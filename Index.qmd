@@ -1,5 +1,42 @@
 ---
-title: "Index"
-format: html
+title: "Dr. Jose Luis Hernandez-Ramirez"
+format: 
+  html:
+    embed-resources: true
 ---
 
+## About Me
+
+I am a researcher and analyst with a PhD in Security and Crime Science, passionate about the intersection of data, public safety, and urban policy. My work spans across law enforcement collaboration, crime prevention, geospatial analysis, and strategic risk assessment in international contexts.
+
+## Interests
+
+-   Geospatial intelligence\
+-   Urban security and resilience\
+-   Data-driven public policy\
+-   Open-source intelligence (OSINT)\
+-   Workforce analytics and justice systems
+
+## Work Experience
+
+-   Collaboration with law enforcement and government agencies in Mexico, the UK, and internationally\
+-   Researcher in crime prevention, GIS applications, and urban planning\
+-   Recognized as a Global Talent by the UK Home Office
+
+## Projects
+
+-   Urban crime risk mapping using GIS\
+-   Development of OSINT frameworks for policing strategies\
+-   Policy briefings for international public safety agencies
+
+## Social Media
+
+-   [LinkedIn](#)\
+-   [Twitter](#)\
+-   [GitHub](#)
+
+## [Download CV](CV_JoseLuisHernandezRamirez.pdf)
+
+## Contact
+
+Email: your.email\@example.com
