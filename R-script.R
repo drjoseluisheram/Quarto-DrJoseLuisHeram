@@ -3,6 +3,11 @@
 
 
 install.packages("usethis")
+install.packages("gitcreds")
+install.packages("gh")
+library(usethis)
+library(gitcreds)
+library(gh)
 
 #0.  crear un repositorio local.
 usethis::use_git()
@@ -20,4 +25,13 @@ usethis::create_github_token()
 gitcreds::gitcreds_set()
 
 
+#4. Confirmar que está funcionando bien:
 usethis::git_sitrep()
+
+#Crear un repositorio local
+usethis::use_git()
+
+
+
+#Subir el repositorio local a GitHub
+usethis::use_github()
