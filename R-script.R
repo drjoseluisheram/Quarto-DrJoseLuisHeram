@@ -38,4 +38,5 @@ usethis::use_git()
 #Subir el repositorio local a GitHub
 usethis::use_github()
 
+git rebase -i <COMMIT-ID>~1
 
