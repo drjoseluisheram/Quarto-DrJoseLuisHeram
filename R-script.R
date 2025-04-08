@@ -5,6 +5,7 @@
 install.packages("usethis")
 install.packages("gitcreds")
 install.packages("gh")
+pak::pak("r-lib/gh")
 library(usethis)
 library(gitcreds)
 library(gh)
@@ -23,6 +24,9 @@ usethis::create_github_token()
 #3 Se abrirá una ventana de GitHub en la que podrás generar y copiar el token. Ejecuta la siguiente función, y cuando la consola te lo indique, pega el token que copiaste:
 #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
 gitcreds::gitcreds_set()
+
+gitcreds_get()
+gitcreds_set()
 
 
 #4. Confirmar que está funcionando bien:
