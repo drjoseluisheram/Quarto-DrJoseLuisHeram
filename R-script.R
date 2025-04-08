@@ -2,10 +2,10 @@
 # Also review: https://bastianolea.rbind.io/blog/r_introduccion/tutorial_github/
 
 
-install.packages("usethis")
-install.packages("gitcreds")
-install.packages("gh")
-pak::pak("r-lib/gh")
+#install.packages("usethis")
+#install.packages("gitcreds")
+#install.packages("gh")
+#pak::pak("r-lib/gh")
 library(usethis)
 library(gitcreds)
 library(gh)
@@ -25,8 +25,8 @@ usethis::create_github_token()
 #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
 gitcreds::gitcreds_set()
 
-gitcreds_get()
-gitcreds_set()
+#gitcreds_get()
+#gitcreds_set()
 
 
 #4. Confirmar que está funcionando bien:
@@ -34,8 +34,6 @@ usethis::git_sitrep()
 
 #Crear un repositorio local
 usethis::use_git()
-
-
 
 #Subir el repositorio local a GitHub
 usethis::use_github()
