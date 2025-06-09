@@ -35,9 +35,9 @@ usethis::git_sitrep()
 #Crear un repositorio local
 usethis::use_git()
 
-#Subir el repositorio local a GitHub
-usethis::use_github()
-
+#Subir el repositorio local a GitHub - Una vez creado, no es necesario hacerlo todo el tiempo
+ usethis::use_git_remote("origin", url = "https://github.com/drjoseluisheram/Quarto-DrJoseLuisHeram.git", overwrite = TRUE)
+ 
 usethis::use_readme()
 
 
