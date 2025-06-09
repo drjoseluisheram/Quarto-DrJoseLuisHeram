@@ -14,4 +14,5 @@ website:
         href: https://github.com/drjoseluisheram
 format:
   html:
+    output-file: "index"
     theme: default

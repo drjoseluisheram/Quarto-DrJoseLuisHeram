@@ -13,10 +13,11 @@ I am a researcher and analyst with a PhD in Security and Crime Science, passiona
 ## Interests
 
 -   Geospatial intelligence\
+-   Economic Crime\
 -   Urban security and resilience\
 -   Data-driven public policy\
--   Open-source intelligence (OSINT)\
--   Workforce analytics and justice systems
+-   Open-source intelligence (OSINT)
+
 
 ## Work Experience
 
@@ -40,4 +41,4 @@ I am a researcher and analyst with a PhD in Security and Crime Science, passiona
 
 ## Contact
 
-Email: your.email\@example.com
+Email: drjoseluisheram\@gamil.com
