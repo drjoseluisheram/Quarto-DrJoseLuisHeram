@@ -3,6 +3,7 @@ title: "Dr. Jose Luis Hernandez-Ramirez
 - Page in progress"
 format: 
   html:
+    output-file: "index"
     embed-resources: true
 ---
 
