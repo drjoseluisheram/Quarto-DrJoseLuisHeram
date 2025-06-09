@@ -22,7 +22,6 @@ usethis::create_github_token()
 
 #3 Se abrirá una ventana de GitHub en la que podrás generar y copiar el token. Ejecuta la siguiente función, y cuando la consola te lo indique, pega el token que copiaste:
 #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
-
 #gitcreds_get()
 #gitcreds_set()
 
@@ -31,9 +30,9 @@ usethis::create_github_token()
 usethis::git_sitrep()
 
 #Crear un repositorio local
-usethis::use_github()
 
 #Subir el repositorio local a GitHub - Una vez creado, no es necesario hacerlo todo el tiempo
+usethis::use_github()
  usethis::use_git_remote("origin", url = "https://github.com/drjoseluisheram/Quarto-DrJoseLuisHeram.git", overwrite = TRUE)
  
 usethis::use_readme()
