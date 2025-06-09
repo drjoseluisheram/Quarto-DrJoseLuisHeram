@@ -11,7 +11,6 @@ library(gitcreds)
 library(gh)
 
 #0.  crear un repositorio local.
-usethis::use_git()
 
 # 1. Configurar nombre de usuario y correo Luego, tienes que registrar cuál es tu cuenta de GitHub.
 usethis::use_git_config(user.name = "drjoseluisheram", user.email = "drjoseluisheram@gmail.com")
