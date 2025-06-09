@@ -40,6 +40,8 @@ usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
  
 usethis::use_readme()
 
-
+git remote add origin https://github.com/drjoseluisheram/Quarto-DrJoseLuisHeram.git
+git branch -M main
+git push -u origin main
 
 
